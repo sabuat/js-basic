@@ -1,6 +1,6 @@
 # JavaScript Learning Repository
 
-![JavaScript Logo](js-logo.png)
+![alt text](https://github.com/sabuat/js-basic/blob/main/logoJS.png?raw=true)
 
 Welcome to the JavaScript Learning Repository! This repository was created to help you learn JavaScript through the content provided by MDN Web Docs. Whether you are a beginner looking to grasp the basics or an experienced developer seeking to expand your knowledge, this repository aims to be a valuable resource for your JavaScript journey.
 
