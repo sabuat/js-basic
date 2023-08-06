@@ -47,10 +47,10 @@ console.log(dias);
 
 // Trabalhando com While
 
-const dias2 = ["lunes", "martes", "miercoles"];
+const dias2 = ["lunes", "martes", "miercoles", "jueves"];
 
 dias.unshift("domingo");
-dias.push("jueves");
+dias.push("viernes");
 
 console.log(dias2)
 
